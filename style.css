@@ -1,0 +1,42 @@
+#Kwadraty{
+    
+    margin: auto;
+    text-align: center;
+    
+}
+
+
+.kwadrat1 {
+        width: 150px;
+		height: 150px;
+        background-color: orange;
+		display: inline-block;
+        
+	}
+
+
+.kwadrat2 {
+	    width: 150px;
+		height: 150px;
+        background-color: green;
+		display: inline-block; 
+        margin-right: 20px;
+        margin-left: 20px;
+	}
+
+
+.kwadrat3 {
+        width: 150px;
+		height: 150px;
+        background-color: pink;
+		display: inline-block;
+        margin-right: 20px;
+        
+	}
+    
+.kwadrat4 {
+	    width: 150px;
+		height: 150px;
+		background-color: blue;
+        display: inline-block; 
+	}
